@@ -162,4 +162,5 @@ cython_debug/
 *.bak
 
 # Database
+# bla bla
 *.sqlite3
